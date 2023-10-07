@@ -17,7 +17,7 @@ To use this template, follow these steps:
 3. Install the dependencies:
 
    ```bash
-   npm install
+   pnpm install
    ```
 
 4. Start the development server:
